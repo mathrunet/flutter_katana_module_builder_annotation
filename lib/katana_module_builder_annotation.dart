@@ -1,4 +1,4 @@
-// Copyright 2021 mathru. All rights reserved.
+// Copyright 2022 mathru. All rights reserved.
 
 /// Definition of annotation when used in ModuleBuilder.
 ///
